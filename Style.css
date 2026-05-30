@@ -57,7 +57,7 @@ nav ul li a {
 
 #aside_accueil {
     color: rgb(77, 77, 137);
-    background-image: url(fond.png);
+    background-image: url(fond_jaune2.png);
     height: 25%;
     padding: 10px;
     border-radius: 10px;
@@ -109,7 +109,7 @@ nav ul li a {
     height: 40%;
     width: 28%;
     border-radius: 10%;
-    background-image: url(fond.png);
+    background-image: url(fond_jaune2.png);
     padding: 10px;
     margin-left: 2%;
     margin-top: 10%;
